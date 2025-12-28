@@ -1,5 +1,11 @@
 # Student Result Processing System (Python + Tkinter + MySQL)
 
+### 👤 Author
+**Damodar Sadavarte — Python Developer**  
+📧 **Email:** damodarsadavarte2000@gmail.com  
+
+---
+
 A simple desktop-based application for managing students, inserting marks, and viewing results using Python Tkinter GUI and MySQL database.
 
 This project helps beginners understand:
@@ -59,12 +65,3 @@ CREATE TABLE marks (
   sub2 INT,
   sub3 INT
 );
-
----
-
-## 👤 Author
-
-**Damodar Sadavarte — Python Developer**  
-📧 Email: **damodarsadavarte2000@gmail.com**
-
----
