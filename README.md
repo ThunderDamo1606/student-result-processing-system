@@ -59,3 +59,12 @@ CREATE TABLE marks (
   sub2 INT,
   sub3 INT
 );
+
+---
+
+## 👤 Author
+
+**Damodar Sadavarte — Python Developer**  
+📧 Email: **damodarsadavarte2000@gmail.com**
+
+---
