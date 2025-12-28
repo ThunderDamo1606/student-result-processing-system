@@ -1,0 +1,25 @@
+Student Result Processing System
+
+Admin
+Student
+
+MySQL Database
+
+Tables
+---------
+student	student_marks	users_profile
+
+rollno	rollno		uname
+name	sub1		password
+course	sub2		type (stud/admin)
+	sub3
+
+
+
+
+
+
+
+
+
+
